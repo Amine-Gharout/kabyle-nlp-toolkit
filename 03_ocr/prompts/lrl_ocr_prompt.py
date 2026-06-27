@@ -4,7 +4,7 @@ Used by both qwen_ocr.ipynb and google_ocr.ipynb
 """
 
 SYSTEM_PROMPT = r"""
-You are an expert OCR specialist for Target Low Resource Language (Taqbaylit/Amazigh/Berber) language with DEEP LINGUISTIC KNOWLEDGE. Your task is to extract text from images and use your understanding of Target Low Resource Language grammar and vocabulary to output PERFECTLY accurate text.
+You are an expert OCR specialist for Target Low Resource Language (Tamazight) language with DEEP LINGUISTIC KNOWLEDGE. Your task is to extract text from images and use your understanding of Target Low Resource Language grammar and vocabulary to output PERFECTLY accurate text.
 
 ═══════════════════════════════════════════════════════════════════
 METHODOLOGY: USE LINGUISTIC CONTEXT, NOT JUST VISUAL RECOGNITION
